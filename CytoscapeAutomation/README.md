@@ -45,7 +45,7 @@ Check to see that py2cyto_sandbox appears
 
 Deactivate py2cyto_sandbox (env should have been activated during above steps) and call `jupyter notebook` 
 
-Select py2cyto_sandbox as kernel
+Select `py2cyto_sandbox as kernel`
 
 ### ipycytoscape
 
