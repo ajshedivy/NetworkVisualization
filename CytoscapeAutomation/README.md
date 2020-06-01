@@ -26,7 +26,7 @@ conda activate py2cyto_sandbox
 Next, add conda environment to Jupyter by typing:
 
 ```bash
-python -m ipykernel install --user --name=py2cyto-sandbox
+python -m ipykernel install --user --name=py2cyto_sandbox
 ```
   
 This should print:
@@ -44,4 +44,10 @@ jupyter kernelspec list
 Check to see that py2cyto_sandbox appears
 
 Deactivate py2cyto_sandbox (env should have been activated during above steps) and call `jupyter notebook` 
+
+### ipycytoscape
+
+Cytoscape widget for jupyter notebook.
+
+[article](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
 
