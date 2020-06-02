@@ -40,7 +40,7 @@ python -m ipykernel install --user --name=py2cyto_sandbox
 This should print:
 
 ```bash
-Installed kernelspec myenv in /home/user/.local/share/jupyter/kernels/py2cyto_sandbox
+Installed kernelspec py2cyto_sandbox in /home/user/.local/share/jupyter/kernels/py2cyto_sandbox
 ```
 
 check to see available kernels
