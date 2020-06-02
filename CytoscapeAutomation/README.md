@@ -2,7 +2,15 @@
 
 Here is a collection of various demos using techniques to Automate Cytoscapes functionality.
 
-### py2cytoscape
+### py2cytoscape 
+<a id="1">[1]</a>
+[documentation](https://py2cytoscape.readthedocs.io/en/latest/)
+
+#### cyREST documentation:
+<a id="1">[2]</a> 
+Ono, Keiichiro, et al. [CyREST: Turbocharging Cytoscape Access for External Tools via a RESTful API](https://f1000research.com/articles/4-478/v1). F1000Research 4 (2015).
+
+#### Setup 
 
 In order to run the py2cytoscape demo: `py2cytoscape_demo_tps.ipynb`, first set up environment and kernel.
 The py2cytoscape demo is an updated tutorial for py2cytoscape 0.7.1. Further comments about work arounds are in the jupyter notebook file
