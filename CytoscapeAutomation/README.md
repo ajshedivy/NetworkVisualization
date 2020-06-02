@@ -58,6 +58,6 @@ Select `py2cyto_sandbox as kernel`
 ## ipycytoscape
 
 Cytoscape widget for jupyter notebook.
-
-[article](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
+<a id="1">[3]</a> 
+[ipycytoscape article](https://blog.jupyter.org/interactive-graph-visualization-in-jupyter-with-ipycytoscape-a8828a54ab63)
 
